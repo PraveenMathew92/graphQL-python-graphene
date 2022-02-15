@@ -1,2 +1,2 @@
-# graphQL-python-graphene
+# GraphQL Python Graphene Notes
 Notes on python library graphene for GraphQL
